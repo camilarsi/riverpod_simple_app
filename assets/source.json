@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "name": "Tuna",
+      "emoji": "\uD83E\uDD6B"
+    },{
+      "id": 2,
+      "name": "Fried egg",
+      "emoji": "\uD83C\uDF73"
+    },
+    {
+      "id": 3,
+      "name": "Calabrian pizza",
+      "emoji": "\uD83C\uDF55"
+    },
+    {
+      "id": 4,
+      "name": "A hot dog",
+      "emoji": "\uD83C\uDF2D"
+    },{
+      "id": 4,
+      "name": "Raw chicken",
+      "emoji": "\uD83D\uDC23"
+    },{
+      "id": 4,
+      "name": "Spaghetti",
+      "emoji": "\uD83C\uDF5D"
+    }
+]
